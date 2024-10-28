@@ -17,6 +17,11 @@ public class SesionAlciviaED_PILAS {
         pilaAlcivia.push(300);
         
         JOptionPane.showMessageDialog(null,"datos en pila ordenada es: \n"+pilaAlcivia);
+
+        JOptionPane.showMessageDialog(null,"Autor: Alcivia Pacheco Luis");
+
+
+       
     }
     
 }
